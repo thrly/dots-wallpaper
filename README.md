@@ -7,10 +7,9 @@ A minimal wallpaper pack featuring soft dot grids, inspired by the [Catppuccin M
 </p>
 
 <p align="center">
-  <img src="./landscape/dots-center-a.png" alt="'dots' wallpaper preview" width="25%">
-  <img src="./landscape/dots-center-b.png" alt="'dots' wallpaper preview" width="25%">
-  <img src="./landscape/dots-b.png" alt="'dots' wallpaper preview" width="25%">
-  <img src="./landscape/dots-tiny-b.png" alt="'dots' wallpaper preview" width="25%">
+  <img src="./landscape/dots-center-b.png" alt="'dots' wallpaper preview" width="30%">
+  <img src="./landscape/dots-b.png" alt="'dots' wallpaper preview" width="30%">
+  <img src="./landscape/dots-center-a.png" alt="'dots' wallpaper preview" width="30%">
 </p>
 
 - 🟠 Soft Catppuccin colorschemes to match your workflow
